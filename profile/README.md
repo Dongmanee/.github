@@ -58,6 +58,8 @@
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongmanee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+# 규칙
+
 ## 📜 Commit 규칙
 
 #### Commit Message 구조
@@ -77,4 +79,9 @@ body
 | chore    | 코드 포맷팅, 세미콜론 누락 등 기능과 관련 없는 변경 사항 |
 | refactor | 코드 리팩토링                                            |
 | test     | 테스트 코드, 리팩토링 테스트 코드 추가                   |
+
+## 🖥 Backend 규칙
+
+## 코드컨벤션
+코드 컨벤션은 [네이버 코드 컨벤션](https://github.com/naver/hackday-conventions-java)을 따른다
 
